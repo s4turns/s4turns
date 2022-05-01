@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @s4turns
+- 👀 I’m interested in coding things
+- 🌱 I’m currently learning python
